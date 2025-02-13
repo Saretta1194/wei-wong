@@ -22,6 +22,10 @@ h2 {
 .sharp-corners * {
     border-radius: 0%;
 
+
+}
+.btn-primary:hover {
+    background-color: #184f63;
 }
 /* about section */
 
@@ -49,6 +53,9 @@ h2 {
 
 #contact {
     background-color: white;
+}
+#contact .btn-primary:hover{
+    background-color: #1d6d8a;
 }
 
 #hero {
